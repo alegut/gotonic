@@ -18,8 +18,8 @@ npm run dev
 npm run build
 ```
 
-### Lint with [ESLint](https://eslint.org/)
+### Lint with [ESLint](https://eslint.org/) + tsc
 
 ```sh
-npm run lint
+npm run verify
 ```
